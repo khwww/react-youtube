@@ -1,9 +1,12 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
-const Home = () => {
+const Webd = () => {
   return (
-    <div>Home</div>
+    <Main>
+      Webd
+    </Main>
     )
 }
 
-export default Home
+export default Webd

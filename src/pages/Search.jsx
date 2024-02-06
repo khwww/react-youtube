@@ -1,9 +1,12 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
-const Home = () => {
+const Search = () => {
   return (
-    <div>Home</div>
+    <Main>
+      Search
+    </Main>
     )
 }
 
-export default Home
+export default Search

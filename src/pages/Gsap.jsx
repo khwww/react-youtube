@@ -1,9 +1,12 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
-const Home = () => {
+const Gsap = () => {
   return (
-    <div>Gsap</div>
+    <Main>
+      Gsap
+    </Main>
     )
 }
 
-export default Home
+export default Gsap

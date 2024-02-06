@@ -1,9 +1,12 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
-const Home = () => {
+const Not = () => {
   return (
-    <div>Home</div>
+    <Main>
+      Not
+    </Main>
     )
 }
 
-export default Home
+export default Not

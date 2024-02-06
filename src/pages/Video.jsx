@@ -1,9 +1,12 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
-const Home = () => {
+const Video = () => {
   return (
-    <div>Home</div>
+    <Main>
+      Video
+    </Main>
     )
 }
 
-export default Home
+export default Video

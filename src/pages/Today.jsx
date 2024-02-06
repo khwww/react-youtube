@@ -1,9 +1,12 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
-const Home = () => {
+const Today = () => {
   return (
-    <div>today</div>
+    <Main>
+      Today
+    </Main>
     )
 }
 
-export default Home
+export default Today

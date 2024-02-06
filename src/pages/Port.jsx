@@ -1,9 +1,12 @@
 import React from 'react'
+import Main from '../components/section/Main'
 
-const Home = () => {
+const Port = () => {
   return (
-    <div>Home</div>
+    <Main>
+      Port
+    </Main>
     )
 }
 
-export default Home
+export default Port
