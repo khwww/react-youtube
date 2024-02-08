@@ -4,7 +4,7 @@ const Footer = () => {
     return (
         <footer id='footer' role="contentinfo"> 
             <a href="mailto:webstoryboy@naver.com" rel="noopener noreferrer">
-                webstoryboy@naver.com
+                woowoo982@naver.com
             </a>
         </footer>
     )

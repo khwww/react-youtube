@@ -5,7 +5,7 @@ const Logo = () => {
     <h1 className='header__logo'>
       <a href="/">
         <em></em>  
-        <span>webs<br />youtube</span>
+        <span>Kim's<br />youtube</span>
       </a>
     </h1>
   )
