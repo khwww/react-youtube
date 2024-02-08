@@ -10,7 +10,7 @@ import todayView08 from "../assets/img/today/todayView08.jpg";
 export const todayText = [
     {
         img: todayView01,
-        title: "나만의 코딩 유튜브 사이트 만들기 프로젝트 feat. 이세린 바보",
+        title: "나만의 코딩 유튜브 사이트 만들기 프로젝트",
         desc : "안녕하세요, 여러분! 오늘은 특별한 프로젝트를 소개해드리려고 합니다. 제가 '나만의 코딩 유튜브 사이트 만들기'라는 주제로 프로젝트를 진행하게 되었는데요, 이 프로젝트는 저의 열정인 코딩과 온라인 교육을 결합한 결과물입니다. 이 프로젝트의 주요 목표는 누구나 쉽게 접근하고 배울 수 있는 공간을 만드는 것입니다. ",
         author : "김현우",
         channelId: "UCsvQSv7EeCMHyYb9ENKAJZw",
